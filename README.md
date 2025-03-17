@@ -1,6 +1,3 @@
-# QuickFetch
- Python utility that retrieves all records and fields from a QuickBase table, downloads file attachments concurrently, and generates an Excel (XLSX) report with clickable links to the locally downloaded files.
-
 # QuickFetch: QuickBase Attachment Downloader
 
 QuickFetch is an open source Python tool designed to streamline the process of retrieving data from QuickBase. It fetches all records and fields from a specified QuickBase table, downloads file attachments concurrently, and generates an Excel (XLSX) report with clickable links to the downloaded files.
